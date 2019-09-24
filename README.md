@@ -1,9 +1,10 @@
-Packages:
+## Packages:
 	npm install discord.js
 	npm install nodemon --save-dev
 	npm install dotenv
 
-Run:
+## Run:
+---
 	npm run dev
 
-	
+---
